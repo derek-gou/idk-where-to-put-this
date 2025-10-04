@@ -1,5 +1,5 @@
 # start-v4l2loopback.sh
-Bash script for raspberry pi to automatically run modprobe v4l2oopback on launch
+Bash script for raspberry pi to automatically run modprobe v4l2loopback on launch
 
 ## Instructions:
 
