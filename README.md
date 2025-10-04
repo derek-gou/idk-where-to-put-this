@@ -3,7 +3,7 @@ Bash script for raspberry pi to automatically run modprobe v4l2oopback on launch
 
 ## Instructions:
 
-Note: these instructions assume the username of the Raspberry Pi is <warg>.
+Note: these instructions assume the username of the Raspberry Pi is \<warg\>.
 
 1. Download `start-v4l2loopback.sh` at [https://github.com/derek-gou/idk-where-to-put-this/tree/main](https://github.com/derek-gou/idk-where-to-put-this/tree/main).  
 2. If you haven't already, create a scripts folder:
